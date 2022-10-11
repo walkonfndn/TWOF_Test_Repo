@@ -1,2 +1,2 @@
 # TWOF_Test_Repo
-sync teaher students
+sync teacher students
